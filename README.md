@@ -1,4 +1,4 @@
-# Async Login Tester
+# Async Basic Auth Tester
 
 This Python script is an asynchronous login tester that attempts to log in to a web service using basic authentication with multiple username and password combinations. It uses the `aiohttp` library for making asynchronous HTTP requests and the `asyncio` library for managing asynchronous tasks.
 
